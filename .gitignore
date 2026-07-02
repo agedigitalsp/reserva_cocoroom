@@ -1,0 +1,42 @@
+# Git directories
+.git/
+.gitkeep
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.*
+
+# Dependencies
+node_modules/
+vendor/
+
+# WordPress
+wp-config-local.php
+wp-content/uploads/
+wp-content/backup-*
+wp-content/cache/
+wp-content/backup-migration/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
+# Logs
+*.log
+wp-content/debug.log
+
+# Test files
+test-env.php
+
+# Temporary files
+*.tmp
+*.bak
