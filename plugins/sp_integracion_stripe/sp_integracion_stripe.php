@@ -12,7 +12,7 @@
 */
 
 
-
+ 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 if ( !class_exists('stripe_sp')){
