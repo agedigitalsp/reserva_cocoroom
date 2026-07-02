@@ -66,14 +66,6 @@ if ( !class_exists('stripe_sp')){
                 }
             }
 
-            // if (isset($_REQUEST['wc-api']) && $_REQUEST['wc-api'] == 'wc_stripe') {
-            //     // $settings["test_publishable_key"] = "pk_test_51OHnJzDMY8v6WCmirXPME98vELtqV4jZrIBYhet2JFJNWFrNQiDvdlppeKWS1n8Vnx8S4t7iromdYaOaFl5mySuB00yR9INNS5";
-            //     // $settings["test_secret_key"] = "YOUR_STRIPE_TEST_SECRET_KEY";
-            //     // $settings["test_webhook_secret"] = "whsec_WLF95NfnfvzO7VUP3rImt4sKB4VgaeBA";
-            //     error_log("Ingreso por stripe");
-            //     error_log(print_r($_REQUEST, true));
-            // }
-
             return $settings;
         }
 
