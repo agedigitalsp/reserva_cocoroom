@@ -1,0 +1,45 @@
+name: Deploy WordPress
+
+on:
+  push:
+    branches: [main, test]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Subir por FTP a TEST
+        if: github.ref == 'refs/heads/test'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST_TEST }}
+          username: ${{ secrets.FTP_USER_TEST }}
+          password: ${{ secrets.FTP_PASS_TEST }}
+          port: 21
+          local-dir: ./
+          server-dir: /wp-content/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github*
+            **/.github*/**
+            README.md
+
+      - name: Subir por FTP a PRODUCCIÓN
+        if: github.ref == 'refs/heads/main'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASS }}
+          port: 21
+          local-dir: ./
+          server-dir: /wp-content/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github*
+            **/.github*/**
+            README.md
