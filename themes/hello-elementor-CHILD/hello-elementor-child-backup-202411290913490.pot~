@@ -1,0 +1,734 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hello Elementor CHILD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-28 15:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.2.2\n"
+"X-Domain: hello-elementor"
+
+#. HTML arrow
+#: template-parts/archive.php:49 template-parts/search.php:55
+#, php-format
+msgid "%s older"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A lightweight and minimalist WordPress theme for Elementor page builder."
+msgstr ""
+
+#: boton_idiomas.php:20
+msgid "Abril"
+msgstr ""
+
+#: includes/admin-functions.php:40 includes/customizer/elementor-upsell.php:59
+#: includes/customizer/elementor-upsell.php:62
+msgid "Activate Elementor"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:78
+msgid "Activate Now"
+msgstr ""
+
+#: boton_idiomas.php:24
+msgid "Agosto"
+msgstr ""
+
+#: reservas.php:163
+msgid ""
+"Al elegir el juego prestad atención al espacio en el que se realiza la "
+"actividad."
+msgstr ""
+
+#: includes/settings/settings-footer.php:438
+msgid "All rights reserved"
+msgstr ""
+
+#: includes/settings/settings-footer.php:179
+#: includes/settings/settings-header.php:175
+msgid "Background"
+msgstr ""
+
+#: includes/settings/settings-footer.php:115
+#: includes/settings/settings-header.php:101
+msgid "Boxed"
+msgstr ""
+
+#: includes/settings/settings-header.php:433
+msgid "Breakpoint"
+msgstr ""
+
+#: includes/settings/settings-footer.php:102
+#: includes/settings/settings-header.php:88
+msgid "Centered"
+msgstr ""
+
+#: boton_idiomas.php:63
+msgid "Cerrar"
+msgstr ""
+
+#: header-reservas.php:79
+msgid "Cerrar Sesión"
+msgstr ""
+
+#: includes/settings/settings-footer.php:388
+#: includes/settings/settings-header.php:409
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr ""
+
+#: includes/settings/settings-footer.php:396
+#: includes/settings/settings-header.php:453
+msgid "Color"
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:35
+msgctxt "comments title"
+msgid "One Response"
+msgstr ""
+
+#: includes/settings/settings-footer.php:127
+#: includes/settings/settings-header.php:113
+msgid "Content Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:86
+#: includes/settings/settings-footer.php:420
+msgid "Copyright"
+msgstr ""
+
+#: boton_idiomas.php:49
+msgid "Correo electrónico"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:43
+#: includes/customizer/elementor-upsell.php:60
+#: includes/customizer/elementor-upsell.php:76
+#: includes/customizer/elementor-upsell.php:84
+msgid "Create a cross-site Header and Footer using Elementor & Hello theme."
+msgstr ""
+
+#: includes/settings/settings-footer.php:493
+msgid "Create a custom footer with multiple options"
+msgstr ""
+
+#: includes/settings/settings-footer.php:509
+msgid "Create a custom footer with the new Theme Builder"
+msgstr ""
+
+#: includes/settings/settings-header.php:516
+msgid "Create a custom header with multiple options"
+msgstr ""
+
+#: includes/settings/settings-header.php:532
+msgid "Create a custom header with the new Theme Builder"
+msgstr ""
+
+#: includes/settings/settings-footer.php:511
+msgid "Create Footer"
+msgstr ""
+
+#: includes/settings/settings-header.php:534
+msgid "Create Header"
+msgstr ""
+
+#: boton_idiomas.php:30
+msgid "D"
+msgstr ""
+
+#: includes/settings/settings-footer.php:100
+#: includes/settings/settings-header.php:86
+msgid "Default"
+msgstr ""
+
+#: boton_idiomas.php:28
+msgid "Diciembre"
+msgstr ""
+
+#: includes/settings/settings-header.php:422
+msgid "Dropdown"
+msgstr ""
+
+#: boton_idiomas.php:38
+msgid ""
+"El sistema no está disponible actualmente, inténtelo más tarde. ¡Disculpe "
+"las molestias!"
+msgstr ""
+
+#. Author of the theme
+msgid "Elementor Team"
+msgstr ""
+
+#: boton_idiomas.php:59
+msgid "En el carrito tienes reservas para"
+msgstr ""
+
+#: boton_idiomas.php:17
+msgid "Enero"
+msgstr ""
+
+#: reservas.php:162
+msgid "Es de vital importancia ser puntuales en vuestra reserva."
+msgstr ""
+
+#: reservas.php:158
+msgid "Escoge la habitación y horario"
+msgstr ""
+
+#: includes/admin-functions.php:139
+msgid "Explore Elementor Page Builder Plugin"
+msgstr ""
+
+#: boton_idiomas.php:18
+msgid "Febrero"
+msgstr ""
+
+#: boton_idiomas.php:52
+msgid "Fecha de la reserva"
+msgstr ""
+
+#: boton_idiomas.php:41 reservas.php:171
+msgid "Finalizar Reserva"
+msgstr ""
+
+#: header-reservas.php:59
+msgid "Finalizar reserva"
+msgstr ""
+
+#: functions.php:31 includes/settings/settings-footer.php:21
+#: includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr ""
+
+#: includes/settings/settings-footer.php:116
+#: includes/settings/settings-header.php:102
+msgid "Full Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:153
+#: includes/settings/settings-header.php:139
+msgid "Gap"
+msgstr ""
+
+#: includes/admin-functions.php:133
+msgid "Get Elementor"
+msgstr ""
+
+#: includes/settings/settings-footer.php:367
+#: includes/settings/settings-header.php:388
+#, php-format
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#. %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:219
+#: includes/settings/settings-header.php:222
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr ""
+
+#. %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:335
+#: includes/settings/settings-header.php:349
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's tagline"
+msgstr ""
+
+#. %s: Link that opens Elementor's "Site Identity" panel.
+#: includes/settings/settings-footer.php:279
+#: includes/settings/settings-header.php:269
+#: includes/settings/settings-header.php:286
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's title"
+msgstr ""
+
+#: includes/settings/settings-footer.php:380
+#: includes/settings/settings-header.php:401
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: reservas.php:87 reservas.php:91
+msgid "Haz clic aquí."
+msgstr ""
+
+#: functions.php:30 includes/settings/settings-header.php:23
+#: includes/settings/settings-header.php:43
+msgid "Header"
+msgstr ""
+
+#: includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr ""
+
+#. Name of the theme
+msgid "Hello Elementor CHILD"
+msgstr ""
+
+#: includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr ""
+
+#: includes/settings/settings-footer.php:53
+#: includes/settings/settings-footer.php:65
+#: includes/settings/settings-footer.php:77
+#: includes/settings/settings-footer.php:89
+#: includes/settings/settings-header.php:54
+#: includes/settings/settings-header.php:65
+#: includes/settings/settings-header.php:76
+msgid "Hide"
+msgstr ""
+
+#: reservas.php:87 reservas.php:91 template-parts/header.php:29
+#: template-parts/dynamic-footer.php:33 template-parts/dynamic-header.php:36
+msgid "Home"
+msgstr ""
+
+#: boton_idiomas.php:53
+msgid "Hora seleccionada"
+msgstr ""
+
+#: includes/settings/settings-header.php:421
+msgid "Horizontal"
+msgstr ""
+
+#. Author URI of the theme
+msgid ""
+"https://elementor.com/?utm_source=wp-themes&utm_campaign=author-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-"
+"uri&utm_medium=wp-dash"
+msgstr ""
+
+#: header-reservas.php:70
+msgid "Iniciar Sesión"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:54
+msgid "Install &amp; Activate"
+msgstr ""
+
+#: includes/admin-functions.php:49 includes/customizer/elementor-upsell.php:42
+msgid "Install Elementor"
+msgstr ""
+
+#: includes/settings/settings-footer.php:101
+#: includes/settings/settings-header.php:87
+msgid "Inverted"
+msgstr ""
+
+#: template-parts/404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: template-parts/search.php:43
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: boton_idiomas.php:34
+msgid "J"
+msgstr ""
+
+#: boton_idiomas.php:51
+msgid "Juego que quieres reservar"
+msgstr ""
+
+#: boton_idiomas.php:23
+msgid "Julio"
+msgstr ""
+
+#: boton_idiomas.php:22
+msgid "Junio"
+msgstr ""
+
+#: boton_idiomas.php:31
+msgid "L"
+msgstr ""
+
+#: includes/settings/settings-footer.php:98
+#: includes/settings/settings-header.php:84
+msgid "Layout"
+msgstr ""
+
+#: boton_idiomas.php:56
+msgid "Lista de precios por número de jugadores:"
+msgstr ""
+
+#: includes/settings/settings-footer.php:205
+#: includes/settings/settings-header.php:208
+msgid "Logo"
+msgstr ""
+
+#: includes/settings/settings-footer.php:216
+#: includes/settings/settings-header.php:219
+msgid "Logo Width"
+msgstr ""
+
+#: boton_idiomas.php:32
+msgid "M"
+msgstr ""
+
+#: boton_idiomas.php:19
+msgid "Marzo"
+msgstr ""
+
+#: boton_idiomas.php:21
+msgid "Mayo"
+msgstr ""
+
+#: template-parts/dynamic-header.php:59
+#: includes/settings/settings-footer.php:74
+#: includes/settings/settings-footer.php:348
+#: includes/settings/settings-footer.php:376
+#: includes/settings/settings-header.php:73
+#: includes/settings/settings-header.php:362
+#: includes/settings/settings-header.php:397
+msgid "Menu"
+msgstr ""
+
+#: includes/settings/settings-header.php:417
+msgid "Menu Layout"
+msgstr ""
+
+#: header-reservas.php:86
+msgid "Mi Cuenta"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: includes/settings/settings-header.php:438
+msgid "Mobile (< %dpx)"
+msgstr ""
+
+#. HTML arrow
+#: template-parts/archive.php:51 template-parts/search.php:57
+#, php-format
+msgid "newer %s"
+msgstr ""
+
+#: boton_idiomas.php:60
+msgid ""
+"No es posible realizar reservas en dos ciudades con la misma compra. ¿Qué "
+"deseas hacer?"
+msgstr ""
+
+#: includes/settings/settings-header.php:441
+msgid "None"
+msgstr ""
+
+#: boton_idiomas.php:27
+msgid "Noviembre"
+msgstr ""
+
+#: boton_idiomas.php:50
+msgid "Número de jugadores"
+msgstr ""
+
+#: reservas.php:122
+msgid "Número de participantes"
+msgstr ""
+
+#: boton_idiomas.php:48
+msgid "Número de teléfono"
+msgstr ""
+
+#: boton_idiomas.php:26
+msgid "Octubre"
+msgstr ""
+
+#: boton_idiomas.php:46
+msgid ""
+"Para reservar con menos de 48 horas de antelación, debes llamar al teléfono "
+"del local y facilitar los siguientes datos:"
+msgstr ""
+
+#: reservas.php:56
+msgid "Quitar"
+msgstr ""
+
+#: reservas.php:65
+msgid "Reserva en"
+msgstr ""
+
+#: boton_idiomas.php:40 reservas.php:53
+msgid "Reservar"
+msgstr ""
+
+#: boton_idiomas.php:36
+msgid "S"
+msgstr ""
+
+#: template-parts/search.php:17
+msgid "Search results for: "
+msgstr ""
+
+#: boton_idiomas.php:62
+msgid "Seguir en"
+msgstr ""
+
+#: reservas.php:125
+msgid "Selecciona el número de participantes"
+msgstr ""
+
+#: reservas.php:227
+msgid "Selecciona tu ciudad"
+msgstr ""
+
+#: reservas.php:153
+msgid "Selecciona una fecha"
+msgstr ""
+
+#: boton_idiomas.php:25
+msgid "Septiembre"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:75
+#: includes/customizer/elementor-upsell.php:83
+msgid "Set Your Header &amp; Footer"
+msgstr ""
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:75
+msgid "Show"
+msgstr ""
+
+#: includes/settings/settings-footer.php:50
+#: includes/settings/settings-footer.php:191
+#: includes/settings/settings-header.php:51
+#: includes/settings/settings-header.php:187
+msgid "Site Logo"
+msgstr ""
+
+#: header.php:31 header-reservas.php:44
+msgid "Skip to content"
+msgstr ""
+
+#. Name of the template
+#: acceder.php:2
+msgid "SP Admin ACCEDER"
+msgstr ""
+
+#. Name of the template
+#: agregar-jugadores.php:1
+msgid "SP Admin AGREGAR JUGADORES A PARTIDA"
+msgstr ""
+
+#. Name of the template
+#: reservas.php:2
+msgid "SP Admin RESERVAS"
+msgstr ""
+
+#. Name of the template
+#: resumen-partida.php:1
+msgid "SP Admin RESUMEN PARTIDA"
+msgstr ""
+
+#. Name of the template
+#: unirse.php:1
+msgid "SP Admin UNIRSE A PARTIDA"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:86
+msgid "Start Here"
+msgstr ""
+
+#. %d: Breakpoint number.
+#: includes/settings/settings-header.php:440
+msgid "Tablet (< %dpx)"
+msgstr ""
+
+#: template-parts/single.php:25
+msgid "Tagged "
+msgstr ""
+
+#: includes/settings/settings-footer.php:62
+#: includes/settings/settings-footer.php:296
+#: includes/settings/settings-header.php:62
+#: includes/settings/settings-header.php:303
+msgid "Tagline"
+msgstr ""
+
+#: includes/settings/settings-footer.php:247
+#: includes/settings/settings-footer.php:306
+#: includes/settings/settings-footer.php:445
+#: includes/settings/settings-header.php:250
+#: includes/settings/settings-header.php:320
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin-functions.php:137
+msgid "Thanks for installing the Hello Theme!"
+msgstr ""
+
+#: includes/admin-functions.php:38
+msgid ""
+"The Hello Theme is a lightweight starter theme that works perfectly with the "
+"Elementor award-winning page builder plugin. Once you activate the plugin, "
+"you are only 1 click away from building an amazing website."
+msgstr ""
+
+#: includes/admin-functions.php:47
+msgid ""
+"The Hello Theme is a lightweight starter theme that works perfectly with the "
+"Elementor award-winning page builder plugin. Once you download and activate "
+"the plugin, you are only 1 click away from building an amazing website."
+msgstr ""
+
+#: template-parts/404.php:16
+msgid "The page can&rsquo;t be found."
+msgstr ""
+
+#: includes/settings/settings-footer.php:367
+#: includes/settings/settings-header.php:388
+msgid "There are no menus in your site."
+msgstr ""
+
+#: includes/settings/settings-footer.php:206
+#: includes/settings/settings-header.php:209
+msgid "Title"
+msgstr ""
+
+#: includes/settings/settings-header.php:467
+msgid "Toggle Color"
+msgstr ""
+
+#: boton_idiomas.php:47
+msgid "Tu nombre y apellidos"
+msgstr ""
+
+#: includes/settings/settings-footer.php:201
+#: includes/settings/settings-header.php:204
+msgid "Type"
+msgstr ""
+
+#: includes/settings/settings-footer.php:263
+#: includes/settings/settings-footer.php:321
+#: includes/settings/settings-footer.php:408
+#: includes/settings/settings-footer.php:460
+#: includes/settings/settings-header.php:266
+#: includes/settings/settings-header.php:335
+#: includes/settings/settings-header.php:482
+msgid "Typography"
+msgstr ""
+
+#: boton_idiomas.php:42
+msgid "Un momento..."
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:67
+#: includes/customizer/elementor-upsell.php:70
+msgid "Update Elementor"
+msgstr ""
+
+#: includes/settings/settings-footer.php:495
+#: includes/settings/settings-header.php:518
+msgid "Upgrade"
+msgstr ""
+
+#: includes/settings/settings-footer.php:494
+#: includes/settings/settings-header.php:517
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr ""
+
+#: includes/elementor-functions.php:208
+#, php-format
+msgid ""
+"Use this experiment to design header and footer using Elementor Site "
+"Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+
+#: boton_idiomas.php:35
+msgid "V"
+msgstr ""
+
+#: boton_idiomas.php:61
+msgid "Vaciar carrito"
+msgstr ""
+
+#: reservas.php:161
+msgid ""
+"Vas a realizar una compra de una reserva. Puedes consultar los precios por "
+"jugador en el enlace de \"Ver precios\" de cada juego."
+msgstr ""
+
+#: boton_idiomas.php:39
+msgid "Ver precios"
+msgstr ""
+
+#: includes/settings/settings-footer.php:113
+#: includes/settings/settings-header.php:99
+msgid "Width"
+msgstr ""
+
+#: includes/settings/settings-footer.php:510
+#: includes/settings/settings-header.php:533
+msgid ""
+"With the new Theme Builder you can jump directly into each part of your site"
+msgstr ""
+
+#: boton_idiomas.php:33
+msgid "X"
+msgstr ""
+
+#: includes/customizer/elementor-upsell.php:68
+msgid ""
+"You need Elementor version 3.1.0 or above to create a cross-site Header and "
+"Footer."
+msgstr ""
+
+#: reservas.php:160
+msgid "¡IMPORTANTE!"
+msgstr ""
+
+#: boton_idiomas.php:65
+msgid "¡Oh, no!"
+msgstr ""
+
+#: boton_idiomas.php:54
+msgid "¿Alguna solicitud extra?"
+msgstr ""
+
+#: reservas.php:87 reservas.php:91
+msgid "¿Quieres reservar en otra ciudad?"
+msgstr ""
+
+#: boton_idiomas.php:44
+msgid "¿Quieres reservar para otro juego?"
+msgstr ""
+
+#: boton_idiomas.php:58
+msgid "¿Volver a empezar?"
+msgstr ""
+
+#: includes/settings/settings-footer.php:357
+#: includes/settings/settings-header.php:378
+msgid "— Select a Menu —"
+msgstr ""

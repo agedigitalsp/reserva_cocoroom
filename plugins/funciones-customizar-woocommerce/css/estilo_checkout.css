@@ -1,0 +1,234 @@
+#place_order {
+	width:100%
+}
+
+.woocommerce-form-login label.woocommerce-form__label.woocommerce-form__label-for-checkbox.woocommerce-form-login__rememberme {
+   margin-top: 12px;
+}
+
+#customer_details .col-1, #customer_details .col-2 {
+    width: 100%;
+    float: left;
+}
+
+.woocommerce table.shop_table td.product-total{
+    width: 20%;
+}
+
+.woocommerce table.woocommerce-checkout-review-order-table tr td:nth-child(2),.woocommerce table.woocommerce-checkout-review-order-table tr th:nth-child(2){
+    text-align: center;
+}
+
+.woocommerce table.woocommerce-checkout-review-order-table tr th{
+    vertical-align: middle;
+}
+
+.tax_label{
+    display: none;
+}
+
+@media (min-width: 992px){
+    #customer_details{
+        width: 50%;
+        float: left;
+    }
+    #order_review_heading{
+        width: 50%;
+        padding: 24px;
+        float: left;
+        margin-top: 0px!important;
+    }
+    #order_review{
+        width: 50%;
+        padding: 24px;
+        float: left;
+    }
+
+    .woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1,
+    .woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2{
+        width: 100%;
+    }
+}
+ 
+
+.woocommerce table.shop_table {
+    border: none!important;
+}
+
+.woocommerce table.shop_table th {
+    -webkit-border-before: none!important;
+    border-block-start: none!important;
+}
+
+div#customer_details h3{
+    color: #292929;
+    font-size: 24px;
+    font-weight: 700;
+    border-bottom: 1px solid;
+    padding-bottom: 10px;
+}
+
+h3#order_review_heading {
+    color: #292929;
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 10px;
+    margin-top: 48px;
+}
+
+
+button#place_order {
+    color: #292929;
+    background: #f5e165;
+    border: 1px solid #292929;
+}
+
+button#place_order:hover {
+    background: transparent;
+}
+
+.woocommerce-info::before {
+    color: #292929;
+}
+.woocommerce-info {
+    border-top-color: #292929!important;
+    color: #292929!important;
+    background: #f1f1f1!important;
+    margin: 0 0 48px!important;
+}
+.woocommerce-error a{
+    font-weight: bolder;
+
+}
+
+.woocommerce-info::before{
+    color: #292929 !important;
+}
+button#place_order {
+    font-size: 0;
+    width: 100%;
+    padding: 8px 12px 8px 12px;
+    
+}
+button#place_order::before {
+    content: "Pagar fianza";
+    font-size: 16px; 
+}
+
+#add_payment_method #payment, .woocommerce-cart #payment, .woocommerce-checkout #payment {
+    background: #fff!important;
+    color: #292929!important;
+    border-radius: 0px!important;
+    border: 2px solid #292929!important;
+}
+
+a.remove-ajax.remove-from-cart {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    text-decoration: none;
+    float: right;
+    color: #292929;
+    background-color: #f5e165;
+
+    transition: background-color 0.5s, color 0.5s;
+}
+
+a.remove-ajax.remove-from-cart:hover {
+    color: #fff;
+    background-color: #292929;
+}
+
+.product-name{
+    font-size: 20px;
+}
+
+.variation{
+    font-size: 16px!important;
+}
+
+.variation-bDetallesb p{
+    padding:0px 24px!important;
+    line-height: 20px!important;
+}
+
+.woocommerce td.product-name .wc-item-meta .wc-item-meta-label, .woocommerce td.product-name .wc-item-meta dt, .woocommerce td.product-name dl.variation .wc-item-meta-label, .woocommerce td.product-name dl.variation dt{
+    float:unset!important;
+}
+
+.woocommerce-billing-fields, .woocommerce-additional-fields{
+    padding: 24px;
+    background-color: #f1f1f1;
+}
+
+input, select, textarea{
+    border: none!important;
+}
+
+
+.woocommerce form .form-row .required {
+    color:#292929!important;
+}
+
+
+
+#add_payment_method #payment div.payment_box, .woocommerce-cart #payment div.payment_box, .woocommerce-checkout #payment div.payment_box {
+    background-color: #f1f1f1!important;
+    color: #292929!important;
+    border-radius: 0!important;
+}
+
+#add_payment_method #payment div.payment_box::before, .woocommerce-cart #payment div.payment_box::before, .woocommerce-checkout #payment div.payment_box::before {
+    border: 1em solid #f1f1f1!important;
+    border-right-color: transparent!important;
+    border-left-color: transparent!important;
+    border-top-color: transparent!important;
+}
+
+
+
+.woocommerce-order-details__title{
+    font-size: 24px!important;
+    font-weight: 700!important;
+}
+
+.woocommerce-table__product-name.product-name{
+    font-size: 16px!important;
+}
+
+.product-quantity, .woocommerce-customer-details{
+    display: none!important;
+}
+
+
+.woocommerce-message{
+    border-top-color: rgb(49, 163, 181)!important;
+}
+.woocommerce-message::before {
+    color: rgb(49, 163, 181)!important;
+}
+
+
+.woocommerce-form.woocommerce-form-login{
+    background: #f1f1f1!important;
+}
+
+.woocommerce-form-login label.woocommerce-form__label.woocommerce-form__label-for-checkbox.woocommerce-form-login__rememberme {
+    margin-top: 0px!important;
+}
+
+.woocommerce-button.button.woocommerce-form-login__submit{
+    border: 1px solid #292929;
+    background: #f2e177!important;
+}
+
+.woocommerce-button.button.woocommerce-form-login__submit:hover{
+    background: white!important;
+}
+
+#deseo_recibir_factura_field .checkbox{
+    line-height: 1.2!important;
+}
