@@ -9,7 +9,7 @@
 if (!defined('ABSPATH')) exit;
 
 class SP_WOO_Order_Notes_Filter_Silent_Complete {
-
+ 
   const MENU_SLUG = 'sp-woo-order-notes-filter';
   const TRANSIENT_KEY_PREFIX = 'sp_woo_notes_filter_ids_';
   const TRANSIENT_TTL = 60 * 60; // 1h
